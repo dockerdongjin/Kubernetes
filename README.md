@@ -1,4 +1,4 @@
-# docker 실습
+# kubernetes 실습
 
 >[docker 이미지 빌드](https://github.com/haneal/DockerRepo/tree/master/case1)
 
